@@ -1,23 +1,23 @@
-💰 Price Predictor Model
-it's a model that predicts the next month’s price for supermarket products based on historical data for each product.
+# 💰 Price Predictor Model
 
-📌 Purpose
-The model is designed to support supermarket systems by providing early price forecasts. These predictions help with:
+This repository contains a machine learning model designed to **predict the next month’s price** of supermarket products based on historical pricing data.
 
-Inventory planning
+## 📌 Purpose
 
-Product stocking decisions
+The model is developed to support **online supermarket systems** by providing early price forecasts. These predictions can help with:
 
-Supplier negotiation
+- 📦 Inventory planning  
+- 🛒 Product stocking decisions  
+- 🤝 Supplier negotiations  
 
-🗂️ How It Works
-The model was trained using 12 months of historical price data for each product.
+## 🗂️ How It Works
 
-By learning pricing patterns and trends, it can estimate the price for the following month.
+- The model is trained using **12 months of historical price data** for each product.
+- It learns pricing patterns and trends using this historical data.
+- Based on the training, it predicts the **next month’s expected price**.
 
-This helps supermarket managers make smarter, data-driven decisions ahead of time.
+## ✅ Example Use Case
 
-✅ Example Use Case
-A supermarket manager wants to know if the price of a specific product is likely to increase next month.
-They feed in the past 12 months of prices — the model returns a predicted price, helping the manager decide whether to stock up now or wait.
-
+A supermarket manager wants to know if the price of a product will increase next month.  
+They input the previous 12 months’ prices into the model.  
+The model then returns a **predicted price** to help in deciding whether to stock the product now or wait.
