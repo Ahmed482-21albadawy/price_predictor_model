@@ -1,6 +1,6 @@
 # 💰 Price Predictor Model
 
-This repository contains a machine learning model designed to **predict the next month’s price** of supermarket products based on historical pricing data.
+price predictor model is a model designed to **predict the next month’s price** of supermarket products based on historical data for each product.
 
 ## 📌 Purpose
 
